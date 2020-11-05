@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tcm-radiant"
+                 "value":"tcm-numericite"
                 }],
          "type":"tilelayer",
          "visible":true,
