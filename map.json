@@ -33,6 +33,12 @@
          "id":14,
          "name":"Jitsi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"yoleboss"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
